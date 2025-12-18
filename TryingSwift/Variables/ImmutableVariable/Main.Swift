@@ -1,3 +1,3 @@
-// Mutable variables
-let firstName = "Sudarshan"
-let lastName = "Mhasrup"
+// Immutable variable
+let name = "Sudarshan Mhasrup"
+print("Hello, my name is \(name).")
