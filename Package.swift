@@ -6,10 +6,11 @@ let package = Package(
     targets: [
         // Swift Playground module programs
         .executableTarget(name: "Playground", path: "SwiftPlayground/Playground/"),
-        .executableTarget(name: "Funground", path: "SwiftPlayground/Funground/"),
+        .executableTarget(name: "FunGround", path: "SwiftPlayground/FunGround/"),
 
         // Trying Swift module programs: Getting Started
         .executableTarget(name: "HelloWorld", path: "TryingSwift/GettingStarted/HelloWorld/"),
+        .executableTarget(name: "DisplayParagraph", path: "TryingSwift/GettingStarted/DisplayParagraph/"),
 
         // Trying Swift module programs on the topic: Variables
         .executableTarget(name: "ImmutableVariable", path: "TryingSwift/Variables/ImmutableVariable/"),
