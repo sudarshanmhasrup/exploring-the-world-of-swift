@@ -2,7 +2,7 @@
 .idea
 
 # Swift files
-**/Funground.swift
+**/FunGround.swift
 
 # Build output folder
 .build
