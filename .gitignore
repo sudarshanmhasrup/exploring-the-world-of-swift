@@ -1,2 +1,5 @@
+# Idea configuration folder
+.idea
+
 # Build output folder
 .build
