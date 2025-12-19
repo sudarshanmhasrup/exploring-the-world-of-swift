@@ -1,5 +1,8 @@
 # Idea configuration folder
 .idea
 
+# Swift files
+**/Funground.swift
+
 # Build output folder
 .build
